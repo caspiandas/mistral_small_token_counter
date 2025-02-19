@@ -1,8 +1,8 @@
 # folders
 mistral_small_token_counter/
-
+.vscode/
 # files
-
+chat.rapidgpt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
